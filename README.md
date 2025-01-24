@@ -5,7 +5,7 @@ version 0.0.1
 
 ### PyRosa
 
-PyRosa is a Python version of Rosa that performs regulon structure-based activity inference. Moreover, PyRosa can perform more tasks compared to Rosa.
+PyRosa is an adapted Python version of Rosa that performs regulon structure-based activity inference. Moreover, PyRosa can perform more tasks compared to Rosa.
 
 ### Resources 
 
